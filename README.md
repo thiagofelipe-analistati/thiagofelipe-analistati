@@ -1,7 +1,7 @@
 ### Thiago Felipe 👋
 
 Olá, sou formado em Analise e desenvolvimento de Sistemas 2014. <br>
-Atualmente estudando Java com Spring, React.js com Next.js e Reaact-Native com Expo.
+Atualmente estudando Java com Spring, React.js com Next.js e React-Native com Expo.
 
 <div align="center">
   <a href="https://github.com/thiagofelipe-analistati">
